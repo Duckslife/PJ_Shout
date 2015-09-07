@@ -1,10 +1,10 @@
-TallyBy API
+GroupBy API
 ===========
-Backend API for TallyBy O2O service which is made by Interpolar, Inc.
+Backend API for Groupby service which is made by privately.
 
 Requirements
 ============
-Make sure that you have already the required packages installed before beginning with TallBy API installation
+Make sure that you have already the required packages installed before beginning with GroupBy API installation
 
 Ubuntu
 ------
@@ -16,7 +16,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-Install the required packages for TallyBy API
+Install the required packages for GroupBy Api
 
 ```
   sudo apt-get install build-essential python3-dev python-pip libpq-dev
