@@ -1,0 +1,13 @@
+mysql:
+    host: 10.1.1.250
+    port: 3306
+    user: shout
+    pw: pjgoharm
+    db_name: project
+mongodb:
+    host: 10.1.1.250
+    port: 3307
+    user: shout
+    pw: pjgoharm
+    db_name: project
+
